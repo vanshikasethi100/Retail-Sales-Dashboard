@@ -13,3 +13,5 @@ Key Highlights:
 3) Interactive and user-friendly dashboard design
 4) Focus on accurate business insights and readability
  
+📊 Live Interactive Dashboard
+You can explore the live Power BI dashboard here:- https://app.powerbi.com/groups/me/reports/2b8b0820-db65-4fbb-b237-6589001a52a8/b35fb97805ecc1dfc703?experience=power-bi
